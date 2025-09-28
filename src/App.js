@@ -3,6 +3,7 @@ import styled from "styled-components";
 export const Main = styled.div`
 padding: 120px;
 background-color:rgb(24, 24, 24);
+min-height : 100vh;
 
 `
 
